@@ -1,13 +1,3 @@
-# Installation
-
-## Clone repository
-
-```
-git clone https://github.com/linkfrg/dotfiles.git --depth 1 --branch main
-```
-
-## Copy config files
-
 ```
 cd dotfiles
 mkdir -p ~/.local/share/themes
